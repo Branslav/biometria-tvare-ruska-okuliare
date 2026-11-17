@@ -1,0 +1,14 @@
+C:\Users\brano\Desktop\Biometricke systemy bezpecnosti\venv\Lib\site-packages\insightface\utils\face_align.py:23: FutureWarning: `estimate` is deprecated since version 0.26 and will be removed in version 2.2. Please use `SimilarityTransform.from_estimate` class constructor instead.
+  tform.estimate(lmk, dst)
+Pocet identit pouzitych v experimente: 62
+Galeriove templaty vytvorene pre 62 identit (len original)
+Vyhodnocujem podmienku: orig ...
+  -> Accuracy=1.0000  FAR=0.0000  FRR=0.0000  EER=0.0000  (genuine=492, impostor=1476)
+     genuine_sim=0.7334+-0.0752  impostor_sim=0.0113+-0.0609  margin=0.7221
+Vyhodnocujem podmienku: mask ...
+  -> Accuracy=1.0000  FAR=0.0000  FRR=0.0000  EER=0.0000  (genuine=492, impostor=1476)
+     genuine_sim=0.6824+-0.0819  impostor_sim=0.0087+-0.0607  margin=0.6736
+Vyhodnocujem podmienku: glasses ...
+  -> Accuracy=1.0000  FAR=0.0000  FRR=0.0000  EER=0.0000  (genuine=491, impostor=1473)
+     genuine_sim=0.6664+-0.0794  impostor_sim=0.0082+-0.0598  margin=0.6582
+Ulozene do: C:\Users\brano\Desktop\Biometricke systemy bezpecnosti\scripts\..\results\baseline.json
